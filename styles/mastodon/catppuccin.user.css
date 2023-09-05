@@ -17,7 +17,9 @@
 domain("fosstodon.org"),
 domain("tech.lgbt"),
 domain("mastodon.social"),
-domain("piaille.fr") {
+domain("piaille.fr"),
+domain("101010.pl"),
+domain("rigcz.club"){
 
   .theme-mastodon-light,
   .skin-mastodon-light {
